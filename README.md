@@ -5,6 +5,7 @@ Interpretador Gcode para robo cartesiano
 * [Git](https://windows.github.com/)
 * [Java JDK 1.7](http://download.oracle.com/otn-pub/java/jdk/7u67-b01/jdk-7u67-windows-x64.exe)
 * [NetBeans 8.2](https://netbeans.org/downloads/?pagelang=pt_BR)
+* [Firmware para PIC16F628A](https://github.com/Xevete/FirmwareRoboCartesianoPic16f628a/tree/master)
 * Serial ports
 
 ### Informrações
