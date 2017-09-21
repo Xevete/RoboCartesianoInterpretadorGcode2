@@ -8,5 +8,5 @@ Interpretador Gcode para robo cartesiano
 * Serial ports
 
 ### Inofmrações
-* **[TCC DESENVOLVIMENTO_DE_UM_ROBÔ_CARTESIANO_ACIONADO_POR_CNC]**=(https://www.academia.edu/30789547/DESENVOLVIMENTO_DE_UM_ROB%C3%94_CARTESIANO_ACIONADO_POR_CNC)
-* **Comunicação com microcontrolador **=Promove a comunicação com o microcontrolador PIC16F628A usilizado como base do hardware do robô.  
+* [TCC DESENVOLVIMENTO_DE_UM_ROBÔ_CARTESIANO_ACIONADO_POR_CNC](https://www.academia.edu/30789547/DESENVOLVIMENTO_DE_UM_ROB%C3%94_CARTESIANO_ACIONADO_POR_CNC)
+* **Comunicação com microcontrolador**=Promove a comunicação com o microcontrolador PIC16F628A usilizado como base do hardware do robô.  
